@@ -25,9 +25,13 @@
      Open customer_behavior_dashboard.pbix
 
      Create interactive dashboard in Power BI
+     
+  <img width="1136" height="685" alt="image" src="https://github.com/user-attachments/assets/efdd9727-ff14-4f82-bef9-73594d544c71" />
+
 
 4.Create Project Report and Presentation
 
      Create project report
+     
 
      
